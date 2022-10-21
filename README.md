@@ -47,3 +47,4 @@ make
 - https://github.com/slembcke/neslib-template
 - https://github.com/sebastiandine/openNES-Snake
 - http://shiru.untergrund.net/articles/programming_nes_games_in_c.htm
+- https://nesdoug.com/2018/09/05/19-more-platformer/ Great notes on achieving randomness (rand() and srand())
